@@ -118,3 +118,17 @@ body {
 .section__hero-right img {
   max-width: 620px;
 }
+.section__services {
+  position: relative;
+  background-image: url(../../image/Service_background.png);
+  background-position: center;
+  background-size: cover;
+}
+.section__title-small {
+  color: #000;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 169.607%; /* 84.804px */
+  letter-spacing: 2px;
+}
